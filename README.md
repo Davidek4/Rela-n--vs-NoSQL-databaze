@@ -1,1 +1,1 @@
-# Rela-n--vs-NoSQL-databaze
+# Relacni-vs-NoSQL-databaze
